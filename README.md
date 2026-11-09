@@ -1,17 +1,9 @@
-# Team 21
-## Work Split:
-Raghuveer: Preprocessing, Logistic Regression, XGBoost
 
-Vijwal: KNN (+Mahalanobis variant), Linear and Polynomial Regression
-
-Aariz: SVM, K-Medoid, Random Forest
-
-Abhinandan: Neural Network for classification and regression
 
 ## CSV Files:
 |Name|Description|
 |---|---|
-|21.csv|Given file|
+|Datasev.csv|Given file|
 |Str_To_Int.csv/Int|Converted string classes to integers|
 |One-Hot.csv/OH|Converted string classes to different one-hot columns|
 |Orig|No scaling|
